@@ -24,14 +24,7 @@ Outputs are written to `results/full_results_centaur_simple_pd.csv` and figures 
 ## Results (gallery)
 
 Game 1–8 summaries:
-![G1](results/mean_cooperation_g1.png)
-![G2](results/mean_cooperation_g2.png)
-![G3](results/mean_cooperation_g3.png)
-![G4](results/mean_cooperation_g4.png)
-![G5](results/mean_cooperation_g5.png)
-![G6](results/mean_cooperation_g6.png)
-![G7](results/mean_cooperation_g7.png)
-![G8](results/mean_cooperation_g8.png)
+<table> <tr> <td><img src="results/mean_cooperation_g1.png" width="250"></td> <td><img src="results/mean_cooperation_g2.png" width="250"></td> <td><img src="results/mean_cooperation_g3.png" width="250"></td> <td><img src="results/mean_cooperation_g4.png" width="250"></td> </tr> <tr> <td><img src="results/mean_cooperation_g5.png" width="250"></td> <td><img src="results/mean_cooperation_g6.png" width="250"></td> <td><img src="results/mean_cooperation_g7.png" width="250"></td> <td><img src="results/mean_cooperation_g8.png" width="250"></td> </tr> </table>
 
 ---
 
